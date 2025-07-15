@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Anaconda metadata
+anaconda_projects/
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and config
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pickle and model files
+*.pkl
+
+# Video or large media (optional)
+*.mp4
